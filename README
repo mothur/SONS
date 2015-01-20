@@ -1,0 +1,42 @@
+/ 
+// SONS: A program for pairwise comparison of sequence libraries.
+// Version 1.0, released on March 1, 2005
+// Copyright (C) 2006 Patrick D. Schloss 
+//
+// This program is free software; you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation; either version 2 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program; if not, write to the Free Software
+// Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+//
+// This distribution contains the following files.
+//
+//   COPYING --- the GNU General Public Licence
+//   makefile --- file useful for easy compilation of the software
+//   README --- this file
+//   sons-1.0.C --- the source code
+//
+// INSTALLATION
+//
+// Linux users with GNU gcc can compile the program by typing:
+//
+//   g++ sons-1.0.C -O4 -o sons
+//
+// at the prompt.  Others may need to edit the makefile.
+//
+// RUNNING THE PROGRAM
+//
+//	See the detailed manual on the SONS website
+//
+// VERSION HISTORY
+//
+// Version 1.0
+//	Released by Patrick D. Schloss on 7/24/2006
